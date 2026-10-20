@@ -1,0 +1,32 @@
+# Allowlist: only code, tests, Slurm scripts, the proposal, the pre-registration and small result tables are published.
+# Data (token ids, reproducible with kl/data.py), large arrays (.npz), course material and working notes stay local.
+/*
+!/.gitignore
+!/README.md
+!/PREREGISTRATION.md
+!/lab4_keys.json
+!/kl/
+!/tests/
+!/slurm/
+!/explore/
+!/proposal/
+!/results/
+!/report/
+
+__pycache__/
+*.pyc
+.DS_Store
+*.npz
+
+/proposal/archive_*/
+/proposal/*.aux
+/proposal/*.log
+/proposal/*.fdb_latexmk
+/proposal/*.fls
+/proposal/*.blg
+/proposal/*.out
+/proposal/*.bbl
+
+/report/*.md
+/report/*.ipynb
+/report/*.txt

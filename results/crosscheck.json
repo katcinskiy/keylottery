@@ -1,0 +1,82 @@
+{
+ "rows": [
+  {
+   "run": "results/null_h1_lefthash_K1000_z.npz",
+   "key_index": 0,
+   "key": 15485863,
+   "set": "code",
+   "texts": 300,
+   "max_abs_dz_all": 1.5522006924229004e-07,
+   "flags_z4_all_brute": 2,
+   "flags_z4_all_saved": 2,
+   "mean_z_all": -0.24712629849412507,
+   "max_abs_dz_uniq": 2.2524761389419723e-07,
+   "flags_z4_uniq_brute": 0,
+   "flags_z4_uniq_saved": 0,
+   "mean_z_uniq": -0.020489462695332274
+  },
+  {
+   "run": "results/null_h1_lefthash_K1000_z.npz",
+   "key_index": 1,
+   "key": 1829338324,
+   "set": "code",
+   "texts": 300,
+   "max_abs_dz_all": 9.973992263212494e-07,
+   "flags_z4_all_brute": 74,
+   "flags_z4_all_saved": 74,
+   "mean_z_all": 2.359130787827177,
+   "max_abs_dz_uniq": 2.040896958099836e-07,
+   "flags_z4_uniq_brute": 0,
+   "flags_z4_uniq_saved": 0,
+   "mean_z_uniq": 0.041976377945909166
+  },
+  {
+   "run": "results/null_h1_lefthash_K1000_z.npz",
+   "key_index": 2,
+   "key": 384259586,
+   "set": "code",
+   "texts": 300,
+   "max_abs_dz_all": 3.104401384845801e-07,
+   "flags_z4_all_brute": 0,
+   "flags_z4_all_saved": 0,
+   "mean_z_all": -1.707566516246851,
+   "max_abs_dz_uniq": 1.7612099023622818e-07,
+   "flags_z4_uniq_brute": 0,
+   "flags_z4_uniq_saved": 0,
+   "mean_z_uniq": -0.3624060725694332
+  },
+  {
+   "run": "results/null_h1_lefthash_K10_lab4keys_z.npz",
+   "key_index": 3,
+   "key": 56731232,
+   "set": "code",
+   "texts": 300,
+   "max_abs_dz_all": 1.1942185516033987e-06,
+   "flags_z4_all_brute": 101,
+   "flags_z4_all_saved": 101,
+   "mean_z_all": 3.353623623397147,
+   "max_abs_dz_uniq": 2.040896958099836e-07,
+   "flags_z4_uniq_brute": 0,
+   "flags_z4_uniq_saved": 0,
+   "mean_z_uniq": 0.3033278560803032
+  },
+  {
+   "run": "results/null_h1_lefthash_K10_lab4keys_z.npz",
+   "key_index": 6,
+   "key": 1003451251,
+   "set": "code",
+   "texts": 300,
+   "max_abs_dz_all": 1.2417605539383203e-06,
+   "flags_z4_all_brute": 72,
+   "flags_z4_all_saved": 72,
+   "mean_z_all": 2.726009918190701,
+   "max_abs_dz_uniq": 1.9303324227948337e-07,
+   "flags_z4_uniq_brute": 0,
+   "flags_z4_uniq_saved": 0,
+   "mean_z_uniq": 0.04857913494408015
+  }
+ ],
+ "passed": true,
+ "tolerance": 0.0001,
+ "note": "saved z is float32"
+}

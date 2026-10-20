@@ -1,0 +1,56 @@
+{
+ "colours": [
+  {
+   "key": 15485863,
+   "contexts": 40,
+   "identical_green_lists": 40
+  },
+  {
+   "key": 1829338324,
+   "contexts": 40,
+   "identical_green_lists": 40
+  },
+  {
+   "key": 384259586,
+   "contexts": 40,
+   "identical_green_lists": 40
+  },
+  {
+   "key": 56731232,
+   "contexts": 40,
+   "identical_green_lists": 40
+  }
+ ],
+ "detector": {
+  "texts": 300,
+  "max_abs_dz": 0.0,
+  "mean_z": 0.45887107848138203
+ },
+ "lab4_texts": {
+  "news": {
+   "lab4": 2100,
+   "compared": 2100,
+   "identical": true
+  },
+  "wiki_en": {
+   "lab4": 2000,
+   "compared": 2000,
+   "identical": true
+  },
+  "lists": {
+   "lab4": 2000,
+   "compared": 2000,
+   "identical": true
+  },
+  "code": {
+   "lab4": 2000,
+   "compared": 2000,
+   "identical": true
+  },
+  "wiki_ru": {
+   "lab4": 2000,
+   "compared": 2000,
+   "identical": true
+  }
+ }
+}
